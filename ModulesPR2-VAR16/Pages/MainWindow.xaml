@@ -16,7 +16,7 @@
             <Image Width="45" Height="45" HorizontalAlignment="Left" Margin="5"/>
         </Grid>
         <Frame x:Name="FrmMain" Grid.Row="1" NavigationUIVisibility="Hidden"/>
-        <TextBlock HorizontalAlignment="Center" Margin="0,24,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="133" Width="259" FontSize="22" TextAlignment="Center"><Run Text="Соболев Александр "/><LineBreak/><Run Text="ПР-25.106"/><LineBreak/><Run Text="Вариант 16"/><LineBreak/><Run Text="Внёс изменения"/><Run Language="ru-ru" Text="123"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Margin="0,24,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="133" Width="259" FontSize="22" TextAlignment="Center"><Run Text="Соболев Александр123 "/><LineBreak/><Run Text="ПР-25.106"/><LineBreak/><Run Text="Вариант 16"/><LineBreak/><Run Text="Внёс изменения"/><Run Language="ru-ru" Text="123"/></TextBlock>
         <Button x:Name="Button1" Content="Задание 1" HorizontalAlignment="Left" Margin="113,157,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button1_Click" FontSize="20" Height="32" Width="219"/>
         <Button x:Name="Button2" Content="Задание 2" HorizontalAlignment="Left" Margin="446,157,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button2_Click" FontSize="20" Height="32" Width="219"/>
         <Button x:Name="Button3" Content="Задание 3" HorizontalAlignment="Left" Margin="113,214,0,0" Grid.Row="1" VerticalAlignment="Top"  FontSize="20" Height="32" Width="219" Click="Button3_Click"/>
